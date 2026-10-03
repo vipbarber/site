@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /painel.html
+Sitemap: https://vipbarber.github.io/site/sitemap.xml
